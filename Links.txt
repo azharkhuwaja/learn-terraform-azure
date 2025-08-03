@@ -1,0 +1,22 @@
+
+Terraform.io
+
+Terraform
+https://developer.hashicorp.com/terraform
+
+Terraform Sandbox
+https://developer.hashicorp.com/terraform/tutorials/sandbox/sandbox
+
+Terraform CLI
+https://developer.hashicorp.com/terraform/cli
+
+Install Terraform
+https://developer.hashicorp.com/terraform/install
+
+https://spacelift.io/blog/how-to-install-terraform
+
+try free HCP Terraform
+https://app.terraform.io/public/signup/account?product_intent=terraform
+
+OneDrive
+https://1drv.ms/f/c/9ebb7d8da6b891d3/EpG31KuR1iZDqngCJIX4n2wBZMw2nVOTMbqvWl86ljzn1Q?e=aS6XRg
